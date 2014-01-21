@@ -119,6 +119,10 @@
 		A7B5818D17455C3600AEBA9D /* 40-forward.png in Resources */ = {isa = PBXBuildFile; fileRef = A7B5818917455C3600AEBA9D /* 40-forward.png */; };
 		A7B5818E17455C3600AEBA9D /* 40-forward@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A7B5818A17455C3600AEBA9D /* 40-forward@2x.png */; };
 		A7B581911745628D00AEBA9D /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7B581901745628D00AEBA9D /* Social.framework */; };
+		A7B9C65F188F276C0006E1F7 /* screen568x568-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A7B9C65B188F276C0006E1F7 /* screen568x568-2.jpeg */; };
+		A7B9C660188F276C0006E1F7 /* screen568x568-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A7B9C65C188F276C0006E1F7 /* screen568x568-3.jpeg */; };
+		A7B9C661188F276C0006E1F7 /* screen568x568-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A7B9C65D188F276C0006E1F7 /* screen568x568-4.jpeg */; };
+		A7B9C662188F276C0006E1F7 /* screen568x568.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A7B9C65E188F276C0006E1F7 /* screen568x568.jpeg */; };
 		A7BC6CB117567B8C00D9F679 /* AppledocSettings.plist in Resources */ = {isa = PBXBuildFile; fileRef = A7BC6CB017567B8C00D9F679 /* AppledocSettings.plist */; };
 		A7C190C9172EFD6A00DE0DB4 /* UIImage+Resize.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C190C6172EFD6A00DE0DB4 /* UIImage+Resize.m */; };
 		A7C190CA172EFD6A00DE0DB4 /* UIImage+RoundedCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C190C8172EFD6A00DE0DB4 /* UIImage+RoundedCorner.m */; };
@@ -258,6 +262,10 @@
 		A7B5818917455C3600AEBA9D /* 40-forward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40-forward.png"; sourceTree = "<group>"; };
 		A7B5818A17455C3600AEBA9D /* 40-forward@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40-forward@2x.png"; sourceTree = "<group>"; };
 		A7B581901745628D00AEBA9D /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		A7B9C65B188F276C0006E1F7 /* screen568x568-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screen568x568-2.jpeg"; sourceTree = "<group>"; };
+		A7B9C65C188F276C0006E1F7 /* screen568x568-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screen568x568-3.jpeg"; sourceTree = "<group>"; };
+		A7B9C65D188F276C0006E1F7 /* screen568x568-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "screen568x568-4.jpeg"; sourceTree = "<group>"; };
+		A7B9C65E188F276C0006E1F7 /* screen568x568.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screen568x568.jpeg; sourceTree = "<group>"; };
 		A7BC6CB017567B8C00D9F679 /* AppledocSettings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AppledocSettings.plist; sourceTree = "<group>"; };
 		A7C190C4172EFD6A00DE0DB4 /* UIImage+Alpha.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Alpha.h"; sourceTree = "<group>"; };
 		A7C190C5172EFD6A00DE0DB4 /* UIImage+Resize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Resize.h"; sourceTree = "<group>"; };
@@ -368,6 +376,10 @@
 		A730E20916C822E000974EDA = {
 			isa = PBXGroup;
 			children = (
+				A7B9C65B188F276C0006E1F7 /* screen568x568-2.jpeg */,
+				A7B9C65C188F276C0006E1F7 /* screen568x568-3.jpeg */,
+				A7B9C65D188F276C0006E1F7 /* screen568x568-4.jpeg */,
+				A7B9C65E188F276C0006E1F7 /* screen568x568.jpeg */,
 				A730E21D16C822E000974EDA /* Whenapp */,
 				A730E23F16C822E000974EDA /* Tests */,
 				A730E21416C822E000974EDA /* Frameworks */,
@@ -650,11 +662,13 @@
 				A778967F16DBDA7300E82309 /* timer-icon30.png in Resources */,
 				A778968116DBDAD500E82309 /* settings-icon30.png in Resources */,
 				A778968616DBEAF400E82309 /* orange-bg.png in Resources */,
+				A7B9C661188F276C0006E1F7 /* screen568x568-4.jpeg in Resources */,
 				A778968816DBED5600E82309 /* soft-orange-bg.png in Resources */,
 				A778968A16DBF55C00E82309 /* ads-example.png in Resources */,
 				A7AC1EDC16E24EDE00A829B8 /* ipsums.plist in Resources */,
 				A73DE30616E5373200D8EB76 /* cog_02@2x.png in Resources */,
 				A73DE30716E5373200D8EB76 /* globe@2x.png in Resources */,
+				A7B9C662188F276C0006E1F7 /* screen568x568.jpeg in Resources */,
 				A73DE30816E5373200D8EB76 /* heart@2x.png in Resources */,
 				A73DE30C16E5379D00D8EB76 /* cog_02.png in Resources */,
 				A73DE30D16E5379D00D8EB76 /* globe.png in Resources */,
@@ -662,6 +676,7 @@
 				A73DE31016E5390A00D8EB76 /* folder@2x.png in Resources */,
 				A73DE31216E5393000D8EB76 /* folder.png in Resources */,
 				A758B68816E68D5100BF25EA /* Marker@2x.png in Resources */,
+				A7B9C660188F276C0006E1F7 /* screen568x568-3.jpeg in Resources */,
 				A758B68A16E68DA700BF25EA /* Marker.png in Resources */,
 				A74DF86316E7D82A00975D7A /* arrow_left@2x.png in Resources */,
 				A75E01431714B64100237050 /* arrow_right@2x.png in Resources */,
@@ -702,6 +717,7 @@
 				A7B5818B17455C3600AEBA9D /* 39-back.png in Resources */,
 				A7B5818C17455C3600AEBA9D /* 39-back@2x.png in Resources */,
 				A7B5818D17455C3600AEBA9D /* 40-forward.png in Resources */,
+				A7B9C65F188F276C0006E1F7 /* screen568x568-2.jpeg in Resources */,
 				A7B5818E17455C3600AEBA9D /* 40-forward@2x.png in Resources */,
 				A7BC6CB117567B8C00D9F679 /* AppledocSettings.plist in Resources */,
 			);
